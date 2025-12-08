@@ -475,8 +475,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   Player: {fileID: 867325156}
-  speed: 4
-  distanceBetween: 0
+  speed: 3
+  distanceBetween: 5
 --- !u!212 &1756648451
 SpriteRenderer:
   serializedVersion: 2
